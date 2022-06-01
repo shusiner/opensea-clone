@@ -2,6 +2,7 @@
 
 reference from https://www.youtube.com/watch?v=LP6mRPBg_4I&t=2642s
 
-To get started, fork this Repl and follow the tutorial
+To start follow the following steps
 
-Like & subscribe ❤️
+1. yarn
+2.
